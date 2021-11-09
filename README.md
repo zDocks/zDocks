@@ -3,6 +3,7 @@
 - 🌱 I'm currently learning Lua and C#
 - 👋 Hi, I’m zDocks
 - 👀 I'm interested in being a programmer
+- 👀 Right now I'm working on developing a FiveM server
 
 <div align="left">
   <a href="https://github.com/rafaballerini">
