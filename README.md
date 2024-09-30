@@ -3,7 +3,7 @@
 - 🌱 I'm currently learning a bit of everything
 - 👋 Hi, I’m Luis Duarte
 - 👀 I'm interested in being a programmer
-- 👀 I'm currently developing a platform for an autonomous motorhome park
+- 👀 I dont know what to dev 🤯
 
 <div align="left">
   <a href="https://github.com/rafaballerini">
