@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Luís Duarte (zDocks) 👋</h1>
+<h1 align="center">Hi, I'm Luís Duarte 👋</h1>
 <p align="center">
   <em>A passionate developer building Full Stack & Mobile applications from Portugal 🇵🇹</em>
 </p>
@@ -47,18 +47,10 @@ Here are some of the technologies and tools I've been working with:
 
 ### 🚀 Featured Project
 
-I'm currently focused on developing **SugereAI**, a full-stack application that demonstrates a complete software engineering workflow.
-
-[<img src="https://i.ibb.co/9mwsK5mb/SugereAI.png" alt="SugereAI Banner" width="200"/>](https://github.com/zDocks/SugereAI)
-> **[SugereAI](https://github.com/zDocks/SugereAI)** - An intelligent daily menu suggestion application for a restaurant, using AI to generate dishes based on the weather forecast. I am developing this app to help my parents at their restaurant. FOR NOW IT'S A PRIVATE PROJECT, BUT WHO KNOWS, MAYBE ONE DAY IT WILL BE MADE PUBLIC.
+I'm currently focused on creating **BUGS**!!!
 
 ---
 
 ### 📫 Contact Me
 
 Let's connect! I'm always open to new opportunities and collaborations.
-
-<p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_HERE" target="_blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="YOUR_LINKEDIN_HERE" height="30" width="40" /></a>&nbsp;
-<a href="mailto:YOUR_EMAIL_HERE"><img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25236.png" alt="YOUR_EMAIL_HERE" height="30" width="40" /></a>&nbsp;
-</p>
